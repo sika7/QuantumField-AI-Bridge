@@ -11,6 +11,7 @@
   <a href="#応用可能性">応用可能性</a> •
   <a href="#参加方法">参加方法</a> •
   <a href="#ロードマップ">ロードマップ</a> •
+  <a href="#プロジェクト構造">プロジェクト構造</a> •
   <a href="#参考文献">参考文献</a>
 </p>
 
@@ -155,6 +156,38 @@ QuantumField-AI-Bridgeは、以下の階層構造を持つモジュール型ア�
 
 詳細なロードマップは[開発ロードマップ](docs/roadmap.md)を参照してください。
 
+## プロジェクト構造
+
+このプロジェクトは以下の構造で整理されています：
+
+```
+QuantumField-AI-Bridge/
+├── README.md                    # プロジェクト概要（本ファイル）
+├── LICENSE                      # Apache 2.0ライセンス
+├── NOTICE                       # 著作権と謝辞
+├── CONTRIBUTING.md              # 貢献ガイドライン
+├── CODE_OF_CONDUCT.md           # コミュニティ行動規範
+│
+├── docs/                        # 文書類
+│   ├── architecture/            # アーキテクチャ関連ドキュメント
+│   ├── concept/                 # 概念検討文書
+│   ├── papers/                  # 関連論文・投稿
+│   ├── project_structure.md     # 詳細なディレクトリ構造ガイド
+│   └── roadmap.md               # 開発ロードマップ
+│
+├── prototypes/                  # プロトタイプコード（将来用）
+├── research/                    # 研究関連ファイル
+└── community/                   # コミュニティ活動
+```
+
+詳細なディレクトリ構造と各ファイルの目的については、[プロジェクト構造ガイド](docs/project_structure.md)を参照してください。
+
+現在の開発段階では、以下のディレクトリとファイルが特に重要です：
+
+- `docs/concept/` - 基本概念の文書化
+- `docs/architecture/` - システムアーキテクチャの詳細設計
+- `community/discussions/` - アイデア提案と議論
+
 ## 参考文献
 
 1. Feynman, R. P. (1982). Simulating physics with computers. International Journal of Theoretical Physics, 21(6/7), 467-488.
@@ -167,7 +200,7 @@ QuantumField-AI-Bridgeは、以下の階層構造を持つモジュール型ア�
 
 ## ライセンス
 
-このプロジェクトは[MIT License](LICENSE)の下で公開されています。
+このプロジェクトは[Apache License 2.0](LICENSE)の下で公開されています。
 
 ## 謝辞
 
