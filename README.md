@@ -90,7 +90,7 @@ QuantumField-AI-Bridgeは、以下の階層構造を持つモジュール型ア�
     └── 対話型説明生成システム
 ```
 
-詳細なアーキテクチャ設計については、[アーキテクチャドキュメント](docs/architecture/system-overview.md)を参照してください。
+詳細なアーキテクチャ設計については、[詳細アーキテクチャドキュメント](docs/architecture/detailed-architecture.md)を参照してください。
 
 ## 応用可能性
 
@@ -123,6 +123,13 @@ QuantumField-AI-Bridgeは、以下の階層構造を持つモジュール型ア�
 - コンセプト検討や応用アイデアの提案
 - コミュニティビルディング支援
 - プロジェクト広報や記事作成
+
+### プロジェクト提案書
+
+プロジェクトの詳細な提案内容については、以下のドキュメントを参照してください：
+
+- [マークダウン版提案書](docs/concept/quantum_field_ai_integration.md) - プロジェクトの基本概念とビジョン
+- [LaTeX版提案書](docs/papers/arxiv_submission/quantum_field_ai_integration.tex) - 学術論文形式の提案書（arXiv提出用）
 
 詳しい参加方法については、[CONTRIBUTING.md](CONTRIBUTING.md)を参照してください。
 
@@ -170,8 +177,11 @@ QuantumField-AI-Bridge/
 │
 ├── docs/                        # 文書類
 │   ├── architecture/            # アーキテクチャ関連ドキュメント
+│   │   └── detailed-architecture.md  # 詳細アーキテクチャ設計
 │   ├── concept/                 # 概念検討文書
+│   │   └── quantum_field_ai_integration.md  # マークダウン版提案書
 │   ├── papers/                  # 関連論文・投稿
+│   │   └── arxiv_submission/    # arXiv投稿資料
 │   ├── project_structure.md     # 詳細なディレクトリ構造ガイド
 │   └── roadmap.md               # 開発ロードマップ
 │
@@ -184,9 +194,9 @@ QuantumField-AI-Bridge/
 
 現在の開発段階では、以下のディレクトリとファイルが特に重要です：
 
-- `docs/concept/` - 基本概念の文書化
-- `docs/architecture/` - システムアーキテクチャの詳細設計
-- `community/discussions/` - アイデア提案と議論
+- `docs/concept/quantum_field_ai_integration.md` - 基本概念の文書化（マークダウン版提案書）
+- `docs/architecture/detailed-architecture.md` - システムアーキテクチャの詳細設計
+- `docs/papers/arxiv_submission/` - 学術論文形式の提案書（arXiv提出用）
 
 ## 参考文献
 
