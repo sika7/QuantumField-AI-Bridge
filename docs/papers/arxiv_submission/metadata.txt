@@ -1,0 +1,27 @@
+論文タイトル: 量子場理論と物質科学の統合に向けた階層的AI協調システムの提案
+英語タイトル: Hierarchical AI Collaboration System for Integrating Quantum Field Theory and Materials Science
+
+主要カテゴリ: quant-ph
+クロスリストカテゴリ: cs.AI, cs.LG, physics.comp-ph
+
+著者情報: [投稿時に更新]
+所属: [投稿時に更新]
+メール: [投稿時に更新]
+
+キーワード:
+- 量子場理論（Quantum Field Theory）
+- 物質科学（Materials Science）
+- 人工知能（Artificial Intelligence）
+- 量子コンピューティング（Quantum Computing）
+- マルチスケールモデリング（Multiscale Modeling）
+- 科学的発見（Scientific Discovery）
+
+MSC分類: 
+- 81T (Quantum field theory)
+- 82D (Applications to specific types of physical systems)
+- 68T (Artificial intelligence)
+
+PACS分類: 
+- 03.67.-a (Quantum information)
+- 71.15.-m (Methods of electronic structure calculations)
+- 89.20.Ff (Computer science and technology)
