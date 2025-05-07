@@ -20,8 +20,8 @@ This guide provides essential information for researchers participating in the Q
 1. Request access to the repository by contacting the project administrator
 2. Once granted access, clone the repository:
    ```bash
-   git clone https://github.com/organization/quantumfield-ai-bridge.git
-   cd quantumfield-ai-bridge
+   git clone https://github.com/sika7/QuantumField-AI-Bridge.git
+   cd QuantumField-AI-Bridge
    ```
 
 ## Repository Structure

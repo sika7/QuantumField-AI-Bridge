@@ -20,8 +20,8 @@
 1. プロジェクト管理者に連絡し、リポジトリへのアクセスを申請してください
 2. アクセス権を得たら、リポジトリをクローンします：
    ```bash
-   git clone https://github.com/organization/quantumfield-ai-bridge.git
-   cd quantumfield-ai-bridge
+   git clone https://github.com/sika7/QuantumField-AI-Bridge.git
+   cd QuantumField-AI-Bridge
    ```
 
 ## リポジトリ構造
